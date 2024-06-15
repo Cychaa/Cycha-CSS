@@ -1,0 +1,34 @@
+masquaradeShell {
+  width: 665px;
+  margin: auto;
+  padding-top: 85px;
+  padding-bottom: 75px;
+  padding-left: 25px;
+  padding-right: 25px;
+  
+  text-align: justify;
+  font-style: normal;
+  font-size: 16px;
+  
+  background-color: black;
+  background-image: url('https://imgur.com/qaa36uy.png');
+  background-size: 1000px;
+  background-repeat: repeat-x, no-repeat;
+  
+  border:solid 2pt #d69523;
+  box-shadow: 0 0 10px #02050c;
+  
+}
+
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: lightblue;
+  }
+}
+
+h1 {
+  color: blue;
+}
+p {
+  color: red;
+}
