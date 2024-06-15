@@ -1,5 +1,5 @@
 .masquaradeShell {
-  width: 665px;
+  width: 60vw;
   margin: auto;
   padding-top: 85px;
   padding-bottom: 75px;
@@ -22,13 +22,7 @@
 
 @media only screen and (max-width: 600px) {
   .masquaradeShell {
-    background-color: lightblue;
+    color: white;
   }
 }
 
-h1 {
-  color: blue;
-}
-p {
-  color: red;
-}
